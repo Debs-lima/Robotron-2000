@@ -1,6 +1,6 @@
 ⚠️ Este é um projeto de cunho educacional!
 
-<img align="right" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv" alt="Gif A cat navigating on a computer">
+<img align="right" src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" alt="Gif A cat navigating on a computer">
 
 ### Projeto Robotron 2000 do <a href="https://github.com/pedromarins">Pedro Marins</a>, com o qual estou aprendendo JS pela Alura em parceria com o Programa Desenvolve do Grupo Boticário! ###
 <hr>
